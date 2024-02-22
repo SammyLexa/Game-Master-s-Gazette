@@ -1,0 +1,13 @@
+.noticia__botao {
+    background: #5BD9B5;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.noticia__botao:hover {
+    background: #54BFA1;
+    cursor: pointer;
+}

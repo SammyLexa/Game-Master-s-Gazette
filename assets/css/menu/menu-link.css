@@ -1,0 +1,15 @@
+.menu__link { /*estilização das palavras do menu, retirando a cor padrão azul e adicionando cinza*/
+    color: #ffffff;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    text-transform: lowercase; /*Põem todas as letras em minúsculas*/
+}
+
+.menu__link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu__link:hover {  /*Isso fará com que os links sejam sublinhados sempre que o mouse passar sobre eles.*/
+    text-decoration: underline;
+}
