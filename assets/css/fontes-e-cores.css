@@ -1,0 +1,14 @@
+:root {
+    --cor-titulo: #FFFFFF;
+    --cor-paragrafo: #C0C0C0;
+    --cor-destaque: aquamarine;
+
+    --cor-destaque-efeito: #871F4E;
+
+    --fonte-principal: 'Inter', sans-serif;
+
+    --cor-background: #884ED9;
+
+    --peso-titulo: 700;
+    --peso-paragrafo: 400;
+}

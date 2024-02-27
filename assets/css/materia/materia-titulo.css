@@ -1,0 +1,10 @@
+.materia__titulo{
+    background-color: #9d66e9;
+    color: var(--cor-titulo);
+    font-weight: var(--peso-titulo);
+    border: 2px solid black ;
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2rem;
+    margin-bottom: 5rem;
+}

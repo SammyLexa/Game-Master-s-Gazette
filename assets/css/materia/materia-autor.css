@@ -1,0 +1,47 @@
+.autor-creditos {
+    align-items: center;
+    margin: 3rem;
+}
+
+.materia__imagem__fundo {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.autor__nome {
+    color: var(--cor-destaque-efeito);
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.autor__funcao {
+    color: black;
+    font-size: 1.25rem;
+    text-transform: lowercase;
+    font-weight: 900;
+}
+
+.materia__autor__imagem--Marina {
+    background-image: url(../../img/Marina.png);
+}
+
+.materia__autor__imagem--Sofia {
+    background-image: url(https://image.cdn2.seaart.ai/static/d171a71acbe44cd5cd2f78a40570a069/20230503/5013732d325abefda1929fd486f104d7_high.webp);
+}
+
+.materia__autor__imagem--Erika {
+    background-image: url(https://image.cdn2.seaart.ai/static/c7410e5d6aa6b2f78ea7d9267b7908c2/20230517/4f658f690e09db0eb4be217b378b4598_high.webp);
+}
+
+.materia__autor__biografia {
+    margin: 2rem;
+    text-align: justify;
+}

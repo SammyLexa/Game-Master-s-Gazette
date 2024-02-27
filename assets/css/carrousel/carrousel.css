@@ -1,0 +1,7 @@
+.carrousel{
+    box-shadow: 2px 2px 4px black;
+    overflow: hidden;
+    height: 600px;
+    width: 1200px;
+    margin: 3rem;
+}
