@@ -7,3 +7,7 @@
     width: 800px;
     height: 400px;
 }
+
+.materia__imagem--JL{
+    background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/76e7f89001953d5c767dd9b2722dcfca2a10b8ebe3c0843b.jpg);
+}

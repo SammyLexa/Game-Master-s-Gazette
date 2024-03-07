@@ -1,6 +1,10 @@
 .autor-creditos {
     align-items: center;
     margin: 3rem;
+    width: 75%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .materia__imagem__fundo {
@@ -27,6 +31,7 @@
     font-size: 1.25rem;
     text-transform: lowercase;
     font-weight: 900;
+
 }
 
 .materia__autor__imagem--Marina {

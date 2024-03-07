@@ -1,0 +1,8 @@
+.QuemSomos__paragrafo{
+    text-align: justify;
+    font-size: 1rem;
+}
+
+.QuemSomos__strong{
+    color: var(--cor-destaque-efeito);
+}
